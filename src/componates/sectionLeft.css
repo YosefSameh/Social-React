@@ -1,0 +1,5 @@
+@media  (min-width:576px) and (max-width:992px) {
+    .sectionLeft{
+        max-width: 650px !important;
+    }
+}
